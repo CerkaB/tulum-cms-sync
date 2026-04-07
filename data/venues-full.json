@@ -1,0 +1,681 @@
+{
+  "syncedAt": "2026-04-07T06:56:35.610Z",
+  "venues": [
+    {
+      "webflowItemId": "692b300317f122c66bfe8217",
+      "base": {
+        "slug": "kanan-beachclub",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/692b237b19713e1e8b605f95_kanan-beachclub-front.webp",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/692b237b19713e1e8b605f95_kanan-beachclub-front.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/692b238265ed6e597f16f817_kanan-beachclub-drone.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/692b23872f507789cddff995_kanan-beachclub-beach.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/692b238f9e48e5599a4866cf_kanan-beachclub-deck.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/692b23fae41ff708bf6c315d_kanan-beachclub-fun.webp"
+        ],
+        "priceRange": "6c5fb8197a7ad362d9db713762ea912b",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Kanan Beachclub",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Kanan Beachclub is an adults-only venue with a restaurant, pool, and pet-friendly spaces, offering a relaxed jungle-meets-sea escape in the hotel zone.",
+          "description": "A Jungle-Meets-Sea Escape at Kanan Tulum Kanan Beach Club invites you to enjoy Tulum with a unique twist: rustic-chic architecture built from tropical woods, soft sand underfoot, and open-air lounges that blend jungle and sea. The design evokes a treehouse feel, making the beach experience feel more immersive — like you’re part of the landscape rather than just visiting. Adults-Only Beach Club Kanan operates as an adults-only beach club , creating a calm-yet-styled atmosphere ideal for couples or friends looking for laid-back beach time. Music — mostly soft house or chill beats — plays during the day to complement the breeze and ocean views. Beachfront Lounging The layout offers a variety of beachfront seating: from rustic cabanas to shaded loungers right on the sand and above on private decks. Setups with sand-floor restaurants, wooden decks, and swings or “nest”-style lounges make Kanan feel organic and relaxed, rather than polished or over-styled. Guests mention it feels intimate and personal — not overcrowded. Because the design embraces nature (wood, sand, jungle greenery), the whole venue feels grounded and low-key. It’s a space where you can choose calm (sunbathing, reading, swimming) or simple sociability (drinks, casual meals, lounging). Experiences, Events & Easy Access to Tulum’s Hotspots Although it keeps a relaxed vibe: during high season it hosts beach club sessions, DJ sets, and parties that attract a fun, social crowd. Its location in Tulum’s hotel zone is another big plus: you're close to trendy bars, night venues, restaurants and shops — but still have a peaceful beach base to return to. Guests consistently highlight the combination of good design, friendly staff, oceanfront access, and freedom (no strict dress codes or formalities) as what keeps drawing them back.",
+          "address": "Carretera Tulum Boca Paila Km 7.5 Mza 020 reg 009, 77780 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Kanan Beachclub",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Kanan Beachclub es un lugar solo para adultos con restaurante, piscina y espacios que admiten mascotas, que ofrece una escapada relajada entre la jungla y el mar en la zona hotelera.",
+          "description": "Una escapada entre la jungla y el mar en Kanan Tulum Kanan Beach Club te invita a disfrutar de Tulum con un toque único: arquitectura rustic-chic construida a partir de maderas tropicales, arena suave bajo los pies, y salones al aire libre que mezclan selva y mar. El diseño evoca una sensación de casa en el árbol, haciendo que la experiencia de la playa se sienta más inmersiva, como si fueras parte del paisaje en lugar de solo visitarlo. Club de playa solo para adultos Kanan opera como un club de playa solo para adultos , creando un ambiente tranquilo pero de estilo ideal para parejas o amigos que buscan un tiempo relajado en la playa. La música, en su mayoría ritmos suaves de house o chill, suena durante el día para complementar la brisa y las vistas al océano. Tumbar frente a la playa El diseño ofrece una variedad de asientos frente al mar: desde cabañas rústicas hasta tumbonas a la sombra justo en la arena y arriba en cubiertas privadas. Las configuraciones con restaurantes con piso de arena, cubiertas de madera y columpios o salones estilo “nido” hacen que Kanan se sienta orgánico y relajado, en lugar de pulido o sobreestilizado. Los huéspedes mencionan que se siente íntimo y personal, no abarrotado. Debido a que el diseño abarca la naturaleza (madera, arena, vegetación de la selva), todo el lugar se siente con tierra y discreto. Es un espacio donde puedes elegir la calma (tomar el sol, leer, nadar) o la simple sociabilidad (bebidas, comidas informales, descansar). Experiencias, Eventos y Fácil Acceso a los Hotspots de Tulum Aunque mantiene un ambiente relajado: durante la temporada alta alberga sesiones de club de playa, DJ sets y fiestas que atraen a una multitud divertida y social. Su ubicación en la zona hotelera de Tulum es otra gran ventaja: estás cerca de bares de moda, locales nocturnos, restaurantes y tiendas, pero aún así tienes una base de playa tranquila a la que regresar. Los huéspedes destacan constantemente la combinación de buen diseño, personal amable, acceso frente al mar y libertad (sin códigos de vestimenta estrictos ni formalidades) como lo que los sigue atrayendo hacia atrás.",
+          "address": "Carretera Tulum Boca Paila Km 7.5 Mza 020 reg 009, 77780 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-12-02T23:36:54.794Z",
+      "lastUpdated": "2025-11-29T19:36:40.522Z"
+    },
+    {
+      "webflowItemId": "67c4a7d24249a3e6fae6dc4a",
+      "base": {
+        "slug": "neek-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/67c4a6eac0a261b6fe92aff2_neek-drone.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/67c4a6eac0a261b6fe92aff2_neek-drone.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/67c4a6f194c4ed22fa6908b8_neek-people.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/67c4a6f94249a3e6fae6169f_neek-hammock.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/67c4a6fff6b951114df843bf_neek-food.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/67c4a6f494c4ed22fa690b1b_neek-dock.avif"
+        ],
+        "priceRange": "acd41c48ef7310ba85b0f818278e1277",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": false
+      },
+      "locales": {
+        "en": {
+          "name": "Neek Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Neek Tulum is a pet-friendly lagoon retreat offering a relaxed and exclusive escape. Enjoy crystal-clear waters, complimentary kayaks & paddle boards, and a laid-back atmosphere.",
+          "description": "A Hidden Lagoon Paradise: Neek Tulum Neek Tulum is a hidden gem offering an exclusive and pet-friendly escape into nature. Set on the crystal-clear Laguna Nopalitos, this venue provides a serene atmosphere where guests can unwind in a private setting. With breathtaking views, great service, and a relaxed vibe, Neek blends the best of nature and comfort, making it one of Tulum’s most unique venues. Tranquility and Exclusivity by the Lagoon Unlike the bustling beach clubs of Tulum, Neek offers a laid-back and intimate environment. With limited capacity and a no-geotagging policy, it maintains a sense of exclusivity where guests can fully immerse themselves in nature. Lounge on rustic wooden decks, take a swim in the turquoise lagoon, or paddle out on a kayak—all while surrounded by lush jungle. The peaceful ambiance and personalized service make it a perfect retreat for those looking to disconnect and enjoy the beauty of the Yucatán. Good Food and Refreshing Drinks Neek offers a simple yet satisfying menu, with a selection of casual dishes and refreshing drinks to enjoy by the water. While the focus isn’t on fine dining, guests can find easygoing options that complement the relaxed atmosphere, making it a great spot to spend the day without worrying about leaving for food. The bar also serves fresh cocktails and juices, perfect for sipping as you take in the lagoon views. Kayaks and Paddle Boards Available Guests can take out kayaks and paddle boards at no extra charge, simply leaving an ID as a deposit, which is returned once the equipment is brought back. It’s an incredible way to explore the lagoon and take in the surrounding natural beauty while gliding across the waters.",
+          "address": "Parcela 1213-Z1/1, Jose Maria Pino Suarez, 77156 Q.R."
+        },
+        "es": {
+          "name": "Neek Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Neek Tulum is a pet-friendly lagoon retreat offering a relaxed and exclusive escape. Enjoy crystal-clear waters, complimentary kayaks & paddle boards, and a laid-back atmosphere.",
+          "description": "A Hidden Lagoon Paradise: Neek Tulum Neek Tulum is a hidden gem offering an exclusive and pet-friendly escape into nature. Set on the crystal-clear Laguna Nopalitos, this venue provides a serene atmosphere where guests can unwind in a private setting. With breathtaking views, great service, and a relaxed vibe, Neek blends the best of nature and comfort, making it one of Tulum’s most unique venues. Tranquility and Exclusivity by the Lagoon Unlike the bustling beach clubs of Tulum, Neek offers a laid-back and intimate environment. With limited capacity and a no-geotagging policy, it maintains a sense of exclusivity where guests can fully immerse themselves in nature. Lounge on rustic wooden decks, take a swim in the turquoise lagoon, or paddle out on a kayak—all while surrounded by lush jungle. The peaceful ambiance and personalized service make it a perfect retreat for those looking to disconnect and enjoy the beauty of the Yucatán. Good Food and Refreshing Drinks Neek offers a simple yet satisfying menu, with a selection of casual dishes and refreshing drinks to enjoy by the water. While the focus isn’t on fine dining, guests can find easygoing options that complement the relaxed atmosphere, making it a great spot to spend the day without worrying about leaving for food. The bar also serves fresh cocktails and juices, perfect for sipping as you take in the lagoon views. Kayaks and Paddle Boards Available Guests can take out kayaks and paddle boards at no extra charge, simply leaving an ID as a deposit, which is returned once the equipment is brought back. It’s an incredible way to explore the lagoon and take in the surrounding natural beauty while gliding across the waters.",
+          "address": "Parcela 1213-Z1/1, Jose Maria Pino Suarez, 77156 Q.R."
+        }
+      },
+      "lastPublished": "2026-03-18T18:12:46.737Z",
+      "lastUpdated": "2026-03-18T17:24:54.295Z"
+    },
+    {
+      "webflowItemId": "6748aac6ce8bc799a16e6712",
+      "base": {
+        "slug": "ilios-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e661e_6741eeeaba10dbc08f97a43a_ilios-tulum-booth.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e661e_6741eeeaba10dbc08f97a43a_ilios-tulum-booth.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e6609_6741eef19527fece173f03c2_ilios-tulum-tunnel.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e6606_6741eef91d53c266ff8951e4_ilios-tulum-plate-breaking.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e6618_6741eefdba10dbc08f97b0c6_ilios-tulum-entertainment.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e661b_6741ef0e6f695744042bfbd0_ilios-tulum-food.avif"
+        ],
+        "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": true,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Ilios Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Ilios: Greek cuisine and warm hospitality, this elegant restaurant provides exceptional service and remains vibrant year-round.",
+          "description": "Greek Elegance in the Heart of Tulum Ilios Tulum brings the rich flavors and warm hospitality of Greece to Mexico's Caribbean coast. Part of the renowned Anderson's Group, Ilios stands out as a culinary gem where authentic Greek cuisine meets the vibrant spirit of Tulum. It's a place where guests can immerse themselves in a unique dining experience that's both elegant and full of life. An Atmosphere of Celebration and Warmth Walking into Ilios feels like stepping into a Greek paradise. The restaurant is adorned with rustic stone walls, olive trees, and soft lighting that create an inviting and festive ambiance. Live music and traditional Greek performances, including plate smashing and dancing, add to the lively atmosphere. The crowd is a mix of locals and international visitors who come to enjoy the energetic setting and exceptional service that Ilios is known for. Exceptional Service That Keeps Guests Coming Back What sets Ilios apart is its commitment to providing top-notch service and unforgettable experiences. Even during the low season, Ilios remains full every night of the week—a testament to its popularity and the quality of its offerings. The staff goes above and beyond to make every guest feel special, ensuring that each visit is memorable. Located in a hotspot next to Bagatelle, Bonbonniere, and Porfirio's, Ilios is at the center of Tulum's vibrant dining scene. Authentic Greek Cuisine with a Modern Twist The menu at Ilios showcases traditional Greek dishes prepared with fresh ingredients and a contemporary touch. Guests can savor classics like Moussaka , and Lamb Chops seasoned with Mediterranean herbs. Seafood lovers will enjoy the Whole Fresh Fish selection, cooked to perfection. Don't miss out on their signature Baklava for dessert—a sweet ending to a delightful meal. An extensive wine list and creative cocktails, such as the Santorini Sunset , complement the menu and enhance the dining experience. A Must-Visit Destination in Tulum Situated in the heart of Tulum's hotel zone, Ilios is easily accessible and offers a lively atmosphere that's hard to resist. Its proximity to other popular venues makes it an ideal spot to start or end your evening. Reservations are highly recommended due to its consistent popularity, ensuring you have a table waiting amidst the bustling crowd.",
+          "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Ilios Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Ilios: Greek cuisine and warm hospitality, this elegant restaurant provides exceptional service and remains vibrant year-round.",
+          "description": "Greek Elegance in the Heart of Tulum Ilios Tulum brings the rich flavors and warm hospitality of Greece to Mexico's Caribbean coast. Part of the renowned Anderson's Group, Ilios stands out as a culinary gem where authentic Greek cuisine meets the vibrant spirit of Tulum. It's a place where guests can immerse themselves in a unique dining experience that's both elegant and full of life. An Atmosphere of Celebration and Warmth Walking into Ilios feels like stepping into a Greek paradise. The restaurant is adorned with rustic stone walls, olive trees, and soft lighting that create an inviting and festive ambiance. Live music and traditional Greek performances, including plate smashing and dancing, add to the lively atmosphere. The crowd is a mix of locals and international visitors who come to enjoy the energetic setting and exceptional service that Ilios is known for. Exceptional Service That Keeps Guests Coming Back What sets Ilios apart is its commitment to providing top-notch service and unforgettable experiences. Even during the low season, Ilios remains full every night of the week—a testament to its popularity and the quality of its offerings. The staff goes above and beyond to make every guest feel special, ensuring that each visit is memorable. Located in a hotspot next to Bagatelle, Bonbonniere, and Porfirio's, Ilios is at the center of Tulum's vibrant dining scene. Authentic Greek Cuisine with a Modern Twist The menu at Ilios showcases traditional Greek dishes prepared with fresh ingredients and a contemporary touch. Guests can savor classics like Moussaka , and Lamb Chops seasoned with Mediterranean herbs. Seafood lovers will enjoy the Whole Fresh Fish selection, cooked to perfection. Don't miss out on their signature Baklava for dessert—a sweet ending to a delightful meal. An extensive wine list and creative cocktails, such as the Santorini Sunset , complement the menu and enhance the dining experience. A Must-Visit Destination in Tulum Situated in the heart of Tulum's hotel zone, Ilios is easily accessible and offers a lively atmosphere that's hard to resist. Its proximity to other popular venues makes it an ideal spot to start or end your evening. Reservations are highly recommended due to its consistent popularity, ensuring you have a table waiting amidst the bustling crowd.",
+          "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2026-04-07T06:49:08.675Z",
+      "lastUpdated": "2026-04-07T06:49:08.675Z"
+    },
+    {
+      "webflowItemId": "6748aac5f9cb5a2baa396acb",
+      "base": {
+        "slug": "taboo-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac4f9cb5a2baa3969ef_6741ea996215a439662ebb03_67140556777a77da8946e13f_taboo-beach.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac4f9cb5a2baa3969ef_6741ea996215a439662ebb03_67140556777a77da8946e13f_taboo-beach.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac4f9cb5a2baa3969ec_6741ea9a6215a439662ebb0f_6714055914d7c202e3aaa359_taboo-drinks.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac4f9cb5a2baa396a1a_6741ea9a6215a439662ebb0c_6714055c4212d55a93403594_taboo-sax.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac4f9cb5a2baa3969f2_6741ea9a6215a439662ebb1b_67140562ff18aa8469cb618d_taboo-lounges.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac4f9cb5a2baa396a0b_6741ea9a6215a439662ebb15_67140568825a5682baadffea_taboo-sunbeds.avif"
+        ],
+        "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Taboo Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Taboo Beach Club stands out as a premier destination in Tulum, offering guests a unique blend of Mediterranean cuisine and live entertainment.",
+          "description": "Where Energy Meets the Beach: Taboo Tulum Taboo Tulum is a vibrant beach club and restaurant that brings high-energy vibes to the shores of Tulum. As part of the renowned Rosa Negra Group, Taboo stands out with its lively atmosphere, making it one of the most popular spots in the area. Open every day from 11 am to 1 am, it offers guests an unforgettable experience filled with music, performances, and excitement. A Lively Atmosphere Full of Performances At Taboo, the energy never stops. Throughout the day and into the night, the beach club keeps the crowd entertained with live shows and dynamic performances. They play upbeat commercial music that keeps everyone dancing and the atmosphere buzzing. The staff engages with guests, hyping up the crowd and ensuring that the fun never fades. Keeping the Crowd Coming Back While Taboo rarely hosts famous artists, it doesn't need to. The consistent lineup of engaging shows and the electrifying environment are enough to keep guests coming back. It's known as one of the liveliest beach clubs in Tulum, where every moment is filled with excitement, and the party vibes are always strong. Mediterranean Cuisine with a Twist Taboo offers a menu inspired by Mediterranean flavors, featuring fresh ingredients and flavorful dishes. Guests can enjoy a variety of options, from seafood platters to grilled meats and tasty vegetarian dishes. The culinary experience is enhanced by the energetic setting, making dining at Taboo both delicious and entertaining. Booking Your Spot in Paradise To reserve a sunbed, cabana, or any beach area at Taboo, prepayment is required, and only 50% of it goes toward your food and drink consumption. While entry prices are higher compared to some other beach clubs, the unique experience and lively atmosphere make it a worthwhile destination for those looking to immerse themselves in Tulum's energetic beach scene.",
+          "address": "Carretera Tulum-Boca Paila Zona Hotelera Km 7, 77780 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Taboo Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Taboo Beach Club stands out as a premier destination in Tulum, offering guests a unique blend of Mediterranean cuisine and live entertainment.",
+          "description": "Donde la energía se encuentra con la playa: Taboo Tulum Taboo Tulum es un vibrante club de playa y restaurante que trae vibraciones de alta energía a las costas de Tulum. Al formar parte del reconocido Grupo Rosa Negra, Taboo destaca por su ambiente animado, convirtiéndolo en uno de los lugares más populares de la zona. Abierto todos los días de 11 de la mañana a 1 de la mañana, ofrece a sus huéspedes una experiencia inolvidable llena de música, actuaciones y emoción. Un ambiente animado lleno de actuaciones En Taboo, la energía nunca se detiene. Durante todo el día y hasta la noche, el club de playa mantiene a la multitud entretenida con espectáculos en vivo y actuaciones dinámicas. Tocan música comercial optimista que mantiene a todos bailando y el ambiente vibrante. El personal se involucra con los invitados, exagerando a la multitud y asegurando que la diversión nunca se desvanece. Manteniendo a la multitud regresando Si bien Taboo rara vez alberga artistas famosos, no necesita hacerlo. La alineación consistente de espectáculos atractivos y el ambiente electrizante son suficientes para que los invitados regresen. Es conocido como uno de los clubes de playa más animados de Tulum, donde cada momento está lleno de emoción, y las vibras de fiesta siempre son fuertes. Cocina Mediterránea con un toque Taboo ofrece un menú inspirado en los sabores mediterráneos, con ingredientes frescos y sabrosos platos. Los huéspedes pueden disfrutar de una variedad de opciones, desde platos de mariscos hasta carnes a la parrilla y sabrosos platos vegetarianos. La experiencia culinaria se ve realzada por el ambiente enérgico, haciendo que cenar en Taboo sea delicioso y entretenido. Reserva tu lugar en Paradise Para reservar una tumbona, cabaña, o cualquier área de playa en Taboo, se requiere prepago, y solo el 50% se destina a tu consumo de alimentos y bebidas. Si bien los precios de entrada son más altos en comparación con algunos otros clubes de playa, la experiencia única y el ambiente animado lo convierten en un destino que vale la pena para aquellos que buscan sumergirse en la enérgica escena playera de Tulum.",
+          "address": "Carretera Tulum-Boca Paila Zona Hotelera Km 7, 77780 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-03-23T14:02:06.078Z",
+      "lastUpdated": "2025-03-23T14:02:06.078Z"
+    },
+    {
+      "webflowItemId": "66dfa427d19a259aa1d58012",
+      "base": {
+        "slug": "mayan-monkey-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0045b3c8e6b0fdb230_66dfa3b32ba17fbf4b8aeaa5_mayan%2520monkey%2520entrance.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0045b3c8e6b0fdb230_66dfa3b32ba17fbf4b8aeaa5_mayan%2520monkey%2520entrance.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0045b3c8e6b0fdb22d_66dfa3beb6aa53b62b790734_mayan%2520monkey%2520tulum%2520pool.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0045b3c8e6b0fdb23d_66dfa3c4b6aa53b62b79151d_mayan%2520monkey%2520girls.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0045b3c8e6b0fdb238_66dfa3c9d19a259aa1d52b81_mayan%2520monkey%2520dj.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0045b3c8e6b0fdb243_66dfa3d5721575a41ad58d62_mayan%2520monkey%2520swings.avif"
+        ],
+        "priceRange": "acd41c48ef7310ba85b0f818278e1277",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Mayan Monkey",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Mayan Monkey Tulum’s rooftop bar located between Downtown and Hotel Zone is a vibrant venue where you can enjoy a mix of live music, DJ sets, and themed events.",
+          "description": "Mayan Monkey Tulum’s rooftop bar is a vibrant venue where you can enjoy a mix of live music, DJ sets, and themed events. Located conveniently between the downtown area and the hotel zone, this unique space blends spacious pool, lively entertainment, and a relaxed yet energetic vibe The venue has hosted big-name DJs like Claptone, Tom & Collins, and Gordo, making it a player in Tulum's nightlife scene. Tulum Bible is also collaborating with Mayan Monkey to bring the \" Baatz Tales \" event series, which showcases both local and international DJs, further cementing the rooftop’s reputation as destination for music events. Located atop one of Tulum’s most popular hostels, the rooftop offers a dynamic space where locals and travelers come together to enjoy music and social events.",
+          "address": "Mayan Monkey Hostel Tulum, Av. Coba Sur S/N, 77780 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Mayan Monkey",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Mayan Monkey Tulum’s rooftop bar located between Downtown and Hotel Zone is a vibrant venue where you can enjoy a mix of live music, DJ sets, and themed events.",
+          "description": "Mayan Monkey Tulum’s rooftop bar is a vibrant venue where you can enjoy a mix of live music, DJ sets, and themed events. Located conveniently between the downtown area and the hotel zone, this unique space blends spacious pool, lively entertainment, and a relaxed yet energetic vibe The venue has hosted big-name DJs like Claptone, Tom & Collins, and Gordo, making it a player in Tulum's nightlife scene. Tulum Bible is also collaborating with Mayan Monkey to bring the \" Baatz Tales \" event series, which showcases both local and international DJs, further cementing the rooftop’s reputation as destination for music events. Located atop one of Tulum’s most popular hostels, the rooftop offers a dynamic space where locals and travelers come together to enjoy music and social events.",
+          "address": "Mayan Monkey Hostel Tulum, Av. Coba Sur S/N, 77780 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-03-07T02:39:16.966Z",
+      "lastUpdated": "2025-03-07T02:39:16.966Z"
+    },
+    {
+      "webflowItemId": "6696c9a47b18d434259be0b1",
+      "base": {
+        "slug": "zamna-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0094402b9f2a542095_6696c97eca1c9818aec6128d_zamna-cabana.webp",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0094402b9f2a542095_6696c97eca1c9818aec6128d_zamna-cabana.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0094402b9f2a5420a9_6696c983b85f0750150b1a5c_zamna-bed.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0094402b9f2a54209f_6696c989532779a95e090838_zamna-kayak.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0094402b9f2a5420a6_6696c98d3567079212867ffa_zamna-pool.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0094402b9f2a542098_6696c993e0eff7d7b9c692b2_zamna-festival.webp"
+        ],
+        "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Zamna Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Zamna Tulum offers eco cabanas, a stunning cenote, and a range of amenities in a vibrant natural setting. Enjoy events and a unique stay experience.",
+          "description": "The Venue Zamna Tulum is a unique venue known for its natural beauty and vibrant atmosphere. Located in the heart of Tulum, this venue features a stunning cenote that provides a breathtaking backdrop for various events. The cenote is surrounded by lush greenery, creating a serene and immersive experience for visitors. The Cabanas Zamna Tulum offers eco cabanas, allowing guests to stay close to nature while enjoying modern amenities. The cabanas are designed to blend seamlessly with the natural environment, providing a peaceful retreat for guests. Each cabana is equipped with essential amenities to ensure a comfortable stay. Amenities Guests at Zamna Tulum can enjoy a range of amenities, including a swimming pool, on-site dining options, and various recreational activities. The venue also hosts regular events and festivals, making it a hub of entertainment and culture in Tulum. Experience Whether you’re staying in one of the charming cabanas or attending an event by the cenote, Zamna Tulum offers a unique and memorable experience. The combination of natural beauty, comfortable accommodations, and a lively atmosphere makes it a must-visit destination in Tulum. Guest Reviews Visitors to Zamna Tulum praise the venue for its stunning natural setting, comfortable accommodations, and the unique atmosphere it offers. The cenote, in particular, is a highlight, providing a tranquil yet vibrant environment that enhances the overall experience.",
+          "address": "km 200, México 307, 77760 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Zamna Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Zamna Tulum ofrece cabañas ecológicas, un cenote impresionante y una variedad de comodidades en un entorno natural vibrante. Disfrute de eventos y una experiencia de estadía única.",
+          "description": "El lugar Zamna Tulum es un lugar único conocido por su belleza natural y ambiente vibrante. Ubicado en el corazón de Tulum, este lugar cuenta con un impresionante cenote que proporciona un telón de fondo impresionante para varios eventos. El cenote está rodeado de exuberante vegetación, creando una experiencia serena e inmersiva para los visitantes. Las Cabañas Zamna Tulum ofrece cabañas ecológicas, lo que permite a los huéspedes permanecer cerca de la naturaleza mientras disfrutan de las comodidades modernas. Las cabañas están diseñadas para integrarse a la perfección con el entorno natural, proporcionando un refugio tranquilo para los huéspedes. Cada cabaña está equipada con las comodidades esenciales para garantizar una estancia confortable. Amenidades Los huéspedes del Zamna Tulum pueden disfrutar de una variedad de servicios, que incluyen una piscina, sitios para comer en el lugar y diversas actividades recreativas. El lugar también alberga eventos y festivales regulares, lo que lo convierte en un centro de entretenimiento y cultura en Tulum. Experiencia Ya sea que se hospede en una de las encantadoras cabañas o asista a un evento junto al cenote, Zamna Tulum ofrece una experiencia única y memorable. La combinación de belleza natural, alojamiento confortable y un ambiente animado lo convierten en un destino de visita obligada en Tulum. Comentarios de los Huéspedes Los visitantes de Zamna Tulum elogian el lugar por su impresionante entorno natural, cómodas habitaciones y el ambiente único que ofrece. El cenote, en particular, es un punto culminante, proporcionando un ambiente tranquilo pero vibrante que mejora la experiencia general.",
+          "address": "km 200, México 307, 77760 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-03-02T19:02:54.949Z",
+      "lastUpdated": "2025-03-02T19:00:42.425Z"
+    },
+    {
+      "webflowItemId": "6692d4cdf2285132e68eb75d",
+      "base": {
+        "slug": "onyx-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb00ea0879a1387bb8f3_6692d69d70c013a8faa547b2_onyx-entrance.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb00ea0879a1387bb8f3_6692d69d70c013a8faa547b2_onyx-entrance.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb00ea0879a1387bb903_6692d6a133c9ff9f6f7699db_onyx-food.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb00ea0879a1387bb900_6692d6a5fd64efeecc8d55eb_onyx-octopus.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb00ea0879a1387bb906_6692d6a94513337c13f54a30_onyx-im-in-tulum.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb00ea0879a1387bb913_6692d6afd12c66d6362ca2b1_onyx-tacos.avif"
+        ],
+        "priceRange": null,
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Onyx",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Onyx: an exceptional dining experience with elegant ambiance and vibrant flavors.",
+          "description": "Dining Experience Onyx, an exceptional restaurant in Tulum, stands out for its culinary excellence. Located in the heart of Downtown, Onyx offers an unforgettable dining experience where each dish is a true work of art, highlighting exquisite flavors and creative presentations. Whether you're enjoying a romantic dinner or a special celebration, Onyx sets the perfect stage with its sophisticated atmosphere and top-notch service. Culinary Delights The menu at Onyx features a blend of local and international cuisines, crafted with the finest ingredients. Each dish is thoughtfully prepared to offer a unique gastronomic journey. From expertly cooked meats to fresh seafood and vibrant vegetarian options, Onyx caters to all palates. The restaurant's commitment to quality and creativity is evident in every bite, making it a must-visit destination for food lovers in Tulum. Ambiance and Nightlife After enjoying a delightful dinner at Onyx, guests have the perfect opportunity to extend their evening at Obsidiana. Just a short stroll across the street, Obsidiana offers a vibrant nightlife experience with its rooftop terrace, energetic music, and expertly crafted cocktails. This seamless transition from fine dining to lively nightlife ensures an unforgettable night in Tulum. Connection of Onyx and Obsidiana The connection between the two venues creates a harmonious blend of dining and entertainment, enhancing the overall experience for guests. In Mexican culture, onyx and obsidian are two precious stones with deep meaning. Onyx is often associated with protection and harmony, while obsidian is known for its spiritual power and ability to eliminate negative energies. These stones are sometimes used together in art objects and sculptures to symbolize the balance between opposing forces, light and darkness, life and death. Onyx and Obsidiana embody this cultural significance, illustrating the complexity of beliefs and symbols that have permeated Mexican society for centuries. Guest Reviews Visitors to Onyx rave about the exceptional food, elegant ambiance, and the unique experience of dining in Tulum. The combination of fine dining and the opportunity to enjoy the vibrant nightlife at Obsidiana creates a memorable evening that guests cherish. Whether you're a local or a tourist, Onyx offers a distinctive and enriching experience that captures the essence of Tulum's culinary and cultural heritage.",
+          "address": "6G6Q+HQ Tulum, Quintana Roo"
+        },
+        "es": {
+          "name": "Onyx",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Onyx: an exceptional dining experience with elegant ambiance and vibrant flavors.",
+          "description": "Experiencia Gastronómica Onyx, un restaurante excepcional en Tulum, destaca por su excelencia culinaria. Ubicado en el corazón del centro, Onyx ofrece una experiencia gastronómica inolvidable donde cada platillo es una verdadera obra de arte, resaltando sabores exquisitos y presentaciones creativas. Ya sea que disfrutes de una cena romántica o una celebración especial, Onyx prepara el escenario perfecto con su ambiente sofisticado y servicio de primera clase. Delicias Culinarias El menú de Onyx presenta una mezcla de cocinas locales e internacionales, elaboradas con los mejores ingredientes. Cada platillo está cuidadosamente preparado para ofrecer un viaje gastronómico único. Desde carnes expertamente cocinadas hasta mariscos frescos y vibrantes opciones vegetarianas, Onyx satisface todos los paladares. El compromiso del restaurante con la calidad y la creatividad es evidente en cada bocado, convirtiéndolo en un destino imprescindible para los amantes de la comida en Tulum. Ambiente y Vida Nocturna Después de disfrutar una deliciosa cena en Onyx, los huéspedes tienen la oportunidad perfecta de extender su velada en Obsidiana. A solo unos pasos cruzando la calle, Obsidiana ofrece una experiencia vibrante de vida nocturna con su terraza en la azotea, música energética y cócteles expertamente elaborados. Esta transición sin problemas de una cena fina a una animada vida nocturna asegura una noche inolvidable en Tulum. Conexión entre Onyx y Obsidiana La conexión entre los dos lugares crea una mezcla armoniosa de gastronomía y entretenimiento, mejorando la experiencia general de los huéspedes. En la cultura mexicana, el ónix y la obsidiana son dos piedras preciosas con un profundo significado. El ónix a menudo se asocia con la protección y la armonía, mientras que la obsidiana es conocida por su poder espiritual y capacidad para eliminar energías negativas. Estas piedras a veces se usan juntas en objetos de arte y esculturas para simbolizar el equilibrio entre fuerzas opuestas, luz y oscuridad, vida y muerte. Onyx y Obsidiana encarnan este significado cultural, ilustrando la complejidad de creencias y símbolos que han permeado la sociedad mexicana durante siglos. Reseñas de Clientes Los visitantes de Onyx elogian la comida excepcional, el ambiente elegante y la experiencia única de cenar en Tulum. La combinación de una cena fina y la oportunidad de disfrutar de la vibrante vida nocturna en Obsidiana crea una velada memorable que los huéspedes atesoran. Ya seas local o turista, Onyx ofrece una experiencia distintiva y enriquecedora que captura la esencia del patrimonio culinario y cultural de Tulum.",
+          "address": "6G6Q+HQ Tulum, Quintana Roo"
+        }
+      },
+      "lastPublished": "2025-03-23T14:05:06.893Z",
+      "lastUpdated": "2025-03-23T14:05:06.893Z"
+    },
+    {
+      "webflowItemId": "6692c5139cd60f19f472019c",
+      "base": {
+        "slug": "obsidiana-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb01008660d3f2f7cc67_6692c629a06a8a1f10fe1674_obsidiana-front.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb01008660d3f2f7cc67_6692c629a06a8a1f10fe1674_obsidiana-front.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb01008660d3f2f7cc6a_6692c6310b0bfbc78814d24e_obsidiana-ermakova-dj-set.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb00008660d3f2f7cc5d_6692c63d212d2a43ad411868_obsidiana-show.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb01008660d3f2f7cc70_6692c6437bba99c0312fc082_obsidiana-bottle-service.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb01008660d3f2f7cc6d_6692c64766d76f0ce124ebb2_obsidiana-bar.avif"
+        ],
+        "priceRange": "acd41c48ef7310ba85b0f818278e1277",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Obsidiana",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Obsidiana, a rooftop in downtown Tulum, offers a vibrant dining experience that transitions into an energetic dancefloor.",
+          "description": "An Elevated Experience Since its opening in January, Obsidiana Tulum has rapidly become one of downtown Tulum's hottest venues. This rooftop offers a vibrant dining scene that seamlessly transitions into an energetic dance floor as the night progresses. Start your evening with a delightful dinner on the rooftop, enjoying dishes from the acclaimed Onyx restaurant across the street. Music and Atmosphere That Ignite the Night As the evening unfolds, Obsidiana transforms with the help of talented DJs, traditional Mayan performances, and dynamic dancers. The music ranges from organic and Afro house to Latin and tech house, ensuring a diverse and engaging soundtrack for your night. Both local and international DJs take the stage, and occasionally, live musicians join in, adding an exciting live element to the mix. The fusion of music and performances creates an electric atmosphere that guests rave about. A Venue That Exceeds Expectations Visitors consistently praise Obsidiana for its lively yet inviting atmosphere, exceptional service, and unique musical experience. Whether you're starting your night with a delightful dinner or looking to dance the night away, Obsidiana offers a distinctive experience that embodies the spirit of Tulum. Continually evolving and improving, it stands out as a go-to venue in the heart of the city. Location & Practical Info Situated in downtown Tulum, Obsidiana is easily accessible and surrounded by some of the city's most popular spots. For updates on DJs and events, be sure to follow Obsidiana on social media.",
+          "address": "C. Orión Sur Manzana 3 L2, entre Andromeda Oriente, Tulum Centro, 77760 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Obsidiana Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Obsidiana, a rooftop in downtown Tulum, offers a vibrant dining experience that transitions into an energetic dancefloor.",
+          "description": "Experiencia Gastronómica Abierto en enero, Obsidiana se ha convertido rápidamente en uno de los lugares más populares del centro de Tulum. Esta joya en la azotea, ubicada en el corazón de la ciudad, ofrece una experiencia gastronómica vibrante que se transforma sin problemas en una pista de baile llena de energía. Comienza tu noche con una deliciosa cena en la azotea, donde puedes saborear platillos del restaurante Onyx , ubicado al otro lado de la calle. Música y Ambiente A medida que avanza la noche, el ambiente en Obsidiana se transforma con la ayuda de DJs, espectáculos mayas tradicionales y bailarines. La música va desde house orgánico, afro house y house latino hasta tech house más energético, asegurando una experiencia animada e inolvidable. Obsidiana invita a DJs tanto locales como internacionales a tocar, y ocasionalmente, músicos en vivo se unen al DJ, añadiendo un emocionante elemento en directo a la escena. Vida Nocturna y Cócteles Después de la cena, la terraza de la azotea se convierte en el lugar perfecto para disfrutar de la vida nocturna de Tulum. Los invitados pueden deleitarse con cócteles elaborados por expertos mientras la música marca el tono para una noche llena de energía. La combinación de excelente comida, música y bebidas hace de Obsidiana un lugar destacado en Tulum. Reseñas de Clientes Los visitantes elogian el ambiente animado pero acogedor, el servicio excepcional y la experiencia musical única. Ya sea que busques comenzar tu noche con una cena deliciosa o bailar toda la noche con un cóctel en la mano, Obsidiana ofrece una experiencia distintiva que encarna el espíritu de Tulum. En constante transformación y mejora, se destaca como un lugar imprescindible tanto para locales como para turistas.",
+          "address": "C. Orión Sur Manzana 3 L2, entre Andromeda Oriente, Tulum Centro, 77760 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-03-23T14:05:19.877Z",
+      "lastUpdated": "2025-03-23T14:05:19.877Z"
+    },
+    {
+      "webflowItemId": "64bd3857dd6dd8f1ad9324b4",
+      "base": {
+        "slug": "vesica-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd39c3a94a84a1f2e79b5_V2qhmkVCq5kIm__deotXb2YiWw68vPCvl5XaNdptIH8.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd39c3a94a84a1f2e79b5_V2qhmkVCq5kIm__deotXb2YiWw68vPCvl5XaNdptIH8.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/673960a27434df48033b41c7_vesica-greenery.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6739609bd8b2c3539df93d9f_vesica-food.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/67396094a9a20f5479950723_vesica-wellness.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6739608e264a049df9184a2e_vesica-working-remotely.avif"
+        ],
+        "priceRange": "6c5fb8197a7ad362d9db713762ea912b",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": true,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Vesica Cenote",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Vesica: a cenote club in Mayan jungle, offering a unique experience. Dip your feet in crystal-clear waters, enjoy comfortable lounges, and stunning views.",
+          "description": "A Natural Paradise Awaits at Vesica Cenote Just a short drive from Tulum, Vesica Cenote is a place where nature's beauty truly shines. With crystal-clear waters surrounded by jungle, it's the perfect spot to swim, relax, and soak up the peaceful atmosphere. Our clients often tell us that Vesica exceeded their expectations, and we couldn't agree more. A Natural Paradise Awaits At Vesica, you'll find a serene environment that invites you to unwind and connect with nature. The design seamlessly blends with the jungle surroundings, offering stunning views and a sense of harmony with the natural world. Whether you're dipping into the cenote or lounging nearby, the peaceful setting provides a memorable escape from the everyday. Exceptional Service and Delicious Food and Drinks What makes Vesica stand out is not just its beautiful location but also its exceptional service and great food and drinks. The menu celebrates local flavors and fresh ingredients. Plus, prices are very affordable, making it easy to enjoy a delicious meal without stretching your budget. You can check out their food and drinks menus by clicking the buttons in menu section. A Versatile Venue for All Occasions Beyond individual visits, Vesica Cenote is available for private events such as weddings, corporate gatherings, and celebrations. The unique environment, excellent service, and exquisite cuisine make it an ideal venue for creating memorable experiences. For those seeking a change from the traditional office, Vesica also offers a reliable Wi-Fi and comfortable work areas, perfect for blending productivity with the tranquility of nature. Location & Practical Info Vesica is easy to reach yet feels like a hidden paradise. The entrance fee is $500 Mexican Pesos (about $38 USD) , with a recommended minimum consumption of $500/$1000 Mexican Pesos depending on the area. We often have special offers available—feel free to message us directly for more information. Remember to bring eco-friendly sunscreen and insect repellent to help protect the environment.",
+          "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Vesica Cenote",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Vesica: a cenote club in Mayan jungle, offering a unique experience. Dip your feet in crystal-clear waters, enjoy comfortable lounges, and stunning views.",
+          "description": "Conecta con la naturaleza Vesica Tulum, te invita a sumergirte en las aguas cristalinas del increíble cenote que protagoniza este lugar. El diseño del club se integra perfectamente con la jungla que lo rodea, regalandote vistas impresionantes y un ambiente que te transportará. Experiencia culinaria Vesica no solo se trata de su belleza natural; también es un destino culinario. El club se enorgullece de su oferta gastronómica, con un menú que unifica la riqueza de sabores e ingredientes locales. Desde el muy recomendado pulpo a la parrilla hasta el delicioso postre de tapioca, cada comida es una exploración del gusto y la tradición. Coworking en el paraíso Para aquellos que buscan un cambio del entorno de oficina tradicional, Vesica ofrece un espacio de coworking excepcional. Con Wi-Fi confiable y cómodas áreas de trabajo, es una ubicación ideal para nómadas digitales y trabajadores remotos que buscan mezclar la productividad con la tranquilidad de la naturaleza. El lugar ideal para celebrar Vesica Cenote también está disponible para alquilar y albergar varios eventos privados. Ya sea una boda romántica, una reunión corporativa o una celebración privada, el ambiente del lugar garantiza una experiencia memorable. La combinación de belleza natural, excelente servicio y exquisita cocina hace que cada evento sea especial. Visita Vesica Tulum Abierto todos los días, Vesica Tulum invita a los huéspedes a experimentar sus ofertas únicas en un entorno que es a la vez inspirador y rejuvenecedor. El costo de entrada para Vesica Cenote es de $300 Pesos Mexicanos (17USD) con un consumo mínimo recomendado de $500 Pesos Mexicanos (28USD). Sin embargo, a menudo podemos ofrecer ofertas especiales, envíanos un mensaje para más información.",
+          "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-12-11T04:20:35.756Z",
+      "lastUpdated": "2025-12-10T18:29:43.820Z"
+    },
+    {
+      "webflowItemId": "647b53266b0a17d0776242e3",
+      "base": {
+        "slug": "meze-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/655a717b67b23d57186b22c2_aVk1KHqNu-ZI501DhRJf9C2oyZgxYGIJA_vsURRnBDo.webp",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/655a717b67b23d57186b22c2_aVk1KHqNu-ZI501DhRJf9C2oyZgxYGIJA_vsURRnBDo.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/655a717b67b23d57186b2275_F2xGaUZw3yCG6n3QL770nJVee7lCjPk-wXGTAgW2WBI.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/655a717b67b23d57186b2270_9MfoR9bUpiexkG0Ynbzri0DXOUuaJSGCFHCWiK4JOJA.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/655a717b67b23d57186b22bf_h4yQJSJweyOddyGd90FTkEYmOsIx7iOiwRNEJeDbTBk.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/655a717b67b23d57186b2278_WHrHeMSSz2dVgyc-AJPyr7EU55Yn_n__JGGLBiaBgIU.webp"
+        ],
+        "priceRange": "6c5fb8197a7ad362d9db713762ea912b",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": false
+      },
+      "locales": {
+        "en": {
+          "name": "Meze",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "MEZE, a creation of the Gitano Group, is a tribute to the beauty of the Aegean Islands. Established in 2019, this Aegean Taverna is beautifully situated in the Tulum Jungle, a short distance from Gitano Jungle.",
+          "description": "Meze is currently closed MEZE is Gitano Group's nod to the serene beauty of the Aegean Islands. Opened in 2019, this Aegean Taverna is nestled in the Tulum Jungle, just a stone's throw away from Gitano Jungle. Guests at MEZE are welcomed by a majestic bougainvillea-filled archway that leads to a lime-washed front courtyard and fountain, giving way to an elegant stone bar. The bar serves signature cocktails, perfectly complementing the menu that features everything from freshly-caught fish to beloved family recipes. At MEZE, the dining experience is all about family, friendship, and sharing incredible food and drinks, reinforcing the brand's commitment to fostering connection and joy. For those wanting to experience different facets of the Gitano Group, Gitano Jungle and Gitano Beach are just around the corner."
+        },
+        "es": {
+          "name": "Meze",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "MEZE, a creation of the Gitano Group, is a tribute to the beauty of the Aegean Islands. Established in 2019, this Aegean Taverna is beautifully situated in the Tulum Jungle, a short distance from Gitano Jungle.",
+          "description": "Meze is currently closed MEZE is Gitano Group's nod to the serene beauty of the Aegean Islands. Opened in 2019, this Aegean Taverna is nestled in the Tulum Jungle, just a stone's throw away from Gitano Jungle. Guests at MEZE are welcomed by a majestic bougainvillea-filled archway that leads to a lime-washed front courtyard and fountain, giving way to an elegant stone bar. The bar serves signature cocktails, perfectly complementing the menu that features everything from freshly-caught fish to beloved family recipes. At MEZE, the dining experience is all about family, friendship, and sharing incredible food and drinks, reinforcing the brand's commitment to fostering connection and joy. For those wanting to experience different facets of the Gitano Group, Gitano Jungle and Gitano Beach are just around the corner."
+        }
+      },
+      "lastPublished": "2025-03-02T19:02:54.949Z",
+      "lastUpdated": "2025-03-02T19:00:42.407Z"
+    },
+    {
+      "webflowItemId": "647a97a2d0d1195f9258ce9d",
+      "base": {
+        "slug": "gitano-beach",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb03c5fbdedf5239398f_6616dabfbd2de48e415ab022_gitano-beach-discoball.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb03c5fbdedf5239398f_6616dabfbd2de48e415ab022_gitano-beach-discoball.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb03c5fbdedf52393989_6616d92ab56c49689ea33b30_gitano-beach-restaurant.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb03c5fbdedf52393993_6616d91d2fb9c14982c95fcd_gitano-beach-sunbeds.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb03c5fbdedf5239399d_6616d91977f04257de105da3_gitano-beach-bar.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb02c5fbdedf52393980_6616d922afce99a89e81d593_gitano-beach-breakfast.avif"
+        ],
+        "priceRange": "23fc6463b6a6670e1600b27d4357f829",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Gitano Beach",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Gitano Beach: Bohemian vibes, fresh Mexican menu, and lively disco evenings on Tulum's southern side of the beach.",
+          "description": "Bohemian Beach Escape Gitano Beach, a sanctuary of elegance on Tulum's more exclusive, southern part of the beach, near the Sian Ka'an biosphere reserve. Experience its captivating blend of bohemian spirit and lively disco evenings . New Location While Gitano Beach was introduced in 2021, it has recently relocated. Now situated beside the brand-new boutique hotel Casa Gitano, it's part of the renowned Gitano Group (including Gitano Jungle , Meze , and locations in New York City, Miami, and Dubai). Being part of the Gitano Group, Gitano Beach embodies the same commitment to love, happiness, and community as its sister venues. Culinary Delights & Coastal Vibes Gitano Beach’s menu features a fresh Mexican flavors infused with global inspiration, all crafted from the finest local ingredients. Sip their signature mezcal cocktails with stunning ocean views. Don’t miss out on their Sunday Beach BBQ Fiesta for a vibrant Tulum experience. ‍",
+          "address": "Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Gitano Beach",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Gitano Beach: Bohemian vibes, fresh Mexican menu, and lively disco evenings on Tulum's southern side of the beach.",
+          "description": "Bohemian Beach Escape Gitano Beach, a sanctuary of elegance on Tulum's more exclusive, southern part of the beach, near the Sian Ka'an biosphere reserve. Experience its captivating blend of bohemian spirit and lively disco evenings . New Location While Gitano Beach was introduced in 2021, it has recently relocated. Now situated beside the brand-new boutique hotel Casa Gitano, it's part of the renowned Gitano Group (including Gitano Jungle , Meze , and locations in New York City, Miami, and Dubai). Being part of the Gitano Group, Gitano Beach embodies the same commitment to love, happiness, and community as its sister venues. Culinary Delights & Coastal Vibes Gitano Beach’s menu features a fresh Mexican flavors infused with global inspiration, all crafted from the finest local ingredients. Sip their signature mezcal cocktails with stunning ocean views. Don’t miss out on their Sunday Beach BBQ Fiesta for a vibrant Tulum experience. ‍",
+          "address": "Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-04-21T15:57:38.734Z",
+      "lastUpdated": "2025-04-21T15:57:38.734Z"
+    },
+    {
+      "webflowItemId": "647a97a1c033e394657d3d6d",
+      "base": {
+        "slug": "gitano-jungle",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.jpeg",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.jpeg",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164099_Z1CJ4oTLJgjMPYAS3fQWohBSV9aRFLD-2dY_RbqjscY.jpeg",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164096_Dh0Ls9QAQBHN_k0YmNmRyOHP6LxCYzWXmRPCpji7TQE.jpeg",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164091_qfUfZBeUeMStcNtI8xZ5gv8VCc9CvevgMgGOVmQxL44.jpeg",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b097116408e_nPQ5qxtqqR5o_Gb9yJInzP6PbBArYU9HqwJA5tzckYg.jpeg"
+        ],
+        "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Gitano Jungle",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Gitano Jungle: A Tulum staple for 10 years, offering a shared dining experience with local flavors, artisanal cocktails, and a bohemian vibe.",
+          "description": "Gitano Jungle: A Tulum Favorite for a Decade Gitano Jungle has been a part of Tulum's vibrant scene for over ten years. Known for Disco, LGBTQIA+ welcoming vibe, it's a place where locals and visitors alike come to enjoy. Fresh Food and Creative Cocktails Gitano Jungle offers a menu rich in seasonal, local ingredients prepared with traditional methods. Dining experience is complemented by a bar boasting over 50 Mezcals and signature hand-made cocktails, using locally-grown seasonal fruits and herbs. A Hub for Music and Dance As the evening progresses, Gitano transforms from dining into energetic dance floor. The highlight of the week is the \"Gypsy Disco\" party every Friday, where the Jungle Room comes alive with disco music, cheering and dancing. The Jungle Room, a space dedicated to fun and freedom making Gitano a year-round destination. What Guests Say Many who visit Gitano talk about its enchanting setting and great service. Reviews often mention the enjoyable atmosphere and the signature Jungle Fever cocktail. The Gitano Family A Growing Collection: Alongside Gitano Jungle, the Gitano Group also operates Meze and Gitano Beach in Tulum. Meze offers a taste of the Aegean with its Mediterranean-inspired menu, while Gitano Beach provides a luxurious beachfront experience, complete with fine dining and cocktails. Beyond Tulum, the Gitano Group has brought its concept to cities like NYC, Miami Beach, and Dubai, sharing the essence of Tulum's laid-back, bohemian lifestyle with a wider audience.",
+          "address": "Beach Road Km. 7, 77710 Q.R"
+        },
+        "es": {
+          "name": "Gitano Jungle",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Gitano Jungle: A Tulum staple for 10 years, offering a shared dining experience with local flavors, artisanal cocktails, and a bohemian vibe.",
+          "description": "Gitano Jungle: A Tulum Favorite for a Decade Gitano Jungle has been a part of Tulum's vibrant scene for over ten years. Known for Disco, LGBTQIA+ welcoming vibe, it's a place where locals and visitors alike come to enjoy. Fresh Food and Creative Cocktails Gitano Jungle offers a menu rich in seasonal, local ingredients prepared with traditional methods. Dining experience is complemented by a bar boasting over 50 Mezcals and signature hand-made cocktails, using locally-grown seasonal fruits and herbs. A Hub for Music and Dance As the evening progresses, Gitano transforms from dining into energetic dance floor. The highlight of the week is the \"Gypsy Disco\" party every Friday, where the Jungle Room comes alive with disco music, cheering and dancing. The Jungle Room, a space dedicated to fun and freedom making Gitano a year-round destination. What Guests Say Many who visit Gitano talk about its enchanting setting and great service. Reviews often mention the enjoyable atmosphere and the signature Jungle Fever cocktail. The Gitano Family A Growing Collection: Alongside Gitano Jungle, the Gitano Group also operates Meze and Gitano Beach in Tulum. Meze offers a taste of the Aegean with its Mediterranean-inspired menu, while Gitano Beach provides a luxurious beachfront experience, complete with fine dining and cocktails. Beyond Tulum, the Gitano Group has brought its concept to cities like NYC, Miami Beach, and Dubai, sharing the essence of Tulum's laid-back, bohemian lifestyle with a wider audience.",
+          "address": "Beach Road Km. 7, 77710 Q.R"
+        }
+      },
+      "lastPublished": "2025-03-02T19:02:54.949Z",
+      "lastUpdated": "2025-03-02T19:00:42.367Z"
+    },
+    {
+      "webflowItemId": "639762c2aa9d6d81260f9ca1",
+      "base": {
+        "slug": "bonbonniere",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/65863971b1038bac40475289_bonbonniere%20entrance.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/65863971b1038bac40475289_bonbonniere%20entrance.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/65863977525ee55fa100f582_bonbonniere%20dancer.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6586397ca6d2d625117ca4dd_bonbonniere%20dancefloor.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/658639827174edf3364a58d9_bonbonniere%20performers.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/65863987dd39833f904c5aae_bonbonniere%20ameme.avif"
+        ],
+        "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Bonbonniere",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Bonbonniere Tulum: The top nightlife spot open till late, blending luxury with a lively dance floor, top DJs, and an elegant dress code.",
+          "description": "Exclusive Nightlife Experience Bonbonniere Tulum is the only nightclub open until late. Following the closure of venues like Zamanik, it has become the go-to venue for party enthusiasts. Situated in the bustling hotel zone, Bonbonniere is neighbors with popular venues like Bagatelle and Vagalume , making it a central afterparty spot in Tulum. Luxurious Ambiance with a Twist Bonbonniere redefines luxury nightlife with its VIP tables and exclusive bottle service, while uniquely balancing this with an energetic dance floor. This nightclub offers an experience that caters to both the elite and dance lovers alike. You might also be surprised to know that drink prices at Bonbonniere can be more affordable compared to some beach clubs in Tulum. Exceptional Music and Production The state-of-the-art sound system and production, coupled with a retractable roof that showcases the starlit sky, create unforgettable nights. This blend of luxury and dance elements makes Bonbonniere a standout in Tulum's nightlife scene. The nightclub invites world-class artists like Seth Troxler, Maceo Plex, Claptone, Damian Lazarus, and many others, ensuring nights filled with dancing until the morning. Dress Code and Operational Hours Bonbonniere maintains an elegant-formal dress code to ensure a sophisticated atmosphere. Beach attire, such as caps, shorts, sandals, sports shirts, and swimwear, is not permitted. Open from Wednesday to Sunday, 10 pm to late, Bonbonniere also offers paid valet parking, adding to its luxurious appeal.",
+          "address": "Carretera estatal Tulum - Boca Paila, Parcela 1744-A NCPE José María Pino Suárez, 77760 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Bonbonniere",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Bonbonniere Tulum: The top nightlife spot open till late, blending luxury with a lively dance floor, top DJs, and an elegant dress code.",
+          "description": "Bonbonniere: Donde el Lujo se Encuentra con la Vida Nocturna Vive la vibrante energía de Tulum en Bonbonniere, el único club nocturno en Tulum abierto hasta tarde. Tras el cierre de lugares como Zamanik, se ha convertido en el punto de encuentro para los entusiastas de la fiesta. Situado en el corazón de la animada Zona Hotelera de Tulum, Bonbonniere es vecino de lugares populares como Bagatelle y Vagalume, consolidándose como el destino central de afterparty en Tulum. Ambiencia Lujosa con un Toque Único Bonbonniere redefine el lujo en la vida nocturna con sus mesas VIP y servicio exclusivo de botellas, equilibrando esto con una pista de baile enérgica. Este lugar ofrece una experiencia que satisface tanto a la élite como a los amantes del baile. Curiosamente, los precios de las bebidas en Bonbonniere pueden ser más accesibles en comparación con algunos clubes de playa en Tulum. Música y Producción Excepcional El sistema de sonido de última generación y la producción, junto con un techo retráctil que muestra el cielo estrellado, crean noches inolvidables. Esta combinación de lujo y elementos de baile hace de Bonbonniere un lugar destacado en la escena nocturna de Tulum. El club nocturno invita a artistas de renombre mundial como Seth Troxler, Maceo Plex, Claptone, Damian Lazarus, entre muchos otros, asegurando noches llenas de baile hasta el amanecer. Código de Vestimenta y Horarios de Operación Bonbonniere mantiene un código de vestimenta elegante-formal para garantizar una atmósfera sofisticada. La ropa de playa, como gorras, pantalones cortos, sandalias, camisetas deportivas y trajes de baño, no está permitida. Abierto de miércoles a domingo, de 10 pm hasta tarde, Bonbonniere también ofrece servicio de valet parking de pago, añadiendo a su atractivo lujoso. Table Layout Reservar una mesa no solo asegura un lugar premium, sino que también incluye un crédito hacia el consumo, garantizando que obtengas un excelente valor por tu experiencia.",
+          "address": "Carretera estatal Tulum - Boca Paila, Parcela 1744-A NCPE José María Pino Suárez, 77760 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-08-20T11:19:38.804Z",
+      "lastUpdated": "2025-08-20T11:19:38.804Z"
+    },
+    {
+      "webflowItemId": "637286d2c7f62dfb03ec4eb2",
+      "base": {
+        "slug": "bagatelle-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb013acfe023dc8d7e16_658230975c492d2a08c7b601_bagatelle-entrance.webp",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb013acfe023dc8d7e16_658230975c492d2a08c7b601_bagatelle-entrance.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb023acfe023dc8d7e1c_6582309060e8b856c8d1e028_bagatelle-tulum-side-view.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb023acfe023dc8d7e1f_6582309f17d059359a0f139c_bagatelle-tulum-party.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb023acfe023dc8d7e23_658230fdaa8b0827f9a3a432_bagatelle-tulum-seats.webp",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb023acfe023dc8d7e2b_658230a75c492d2a08c7bb9c_bagatelle-tulum-beach-and-pool.webp"
+        ],
+        "priceRange": "23fc6463b6a6670e1600b27d4357f829",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Bagatelle Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Bagatelle Tulum: A taste of French Riviera elegance, top dishes, lively music, and exclusive events in a luxurious Tulum setting.",
+          "description": "French Riviera Vibes in the Heart of Tulum Bagatelle Tulum brings the charm and elegance of the French Riviera to Tulum's stunning coastline. Part of the globally renowned Bagatelle brand, this venue offers both a beach club and a restaurant, each with its own unique vibe and atmosphere. It's the perfect destination for those seeking a blend of luxury, relaxation, and lively entertainment. Dual Experiences: Beach Club and Restaurant At the beach club , guests can unwind on sunbeds, relax in the sunshine, and enjoy the upbeat rhythms of live DJs. The atmosphere is energetic and sophisticated, attracting a stylish crowd that appreciates good music and a vibrant seaside setting. The restaurant offers an elegant dining experience with a focus on exceptional Mediterranean cuisine infused with local flavors. The décor is chic and inviting, creating the perfect ambiance for leisurely lunches or intimate dinners overlooking the ocean. Themed Events and Unforgettable Nights Bagatelle Tulum is famous for its themed days and nights that keep the energy high and guests entertained: Rock & Baga on Fridays: Kick off the weekend with rock-inspired music and lively performances. Rosé All Day on Saturdays: Celebrate with flowing rosé, great music, and a festive crowd. Jungle Brunch on Sundays: Enjoy a vibrant daytime party featuring DJ sets, delicious food, and a tropical atmosphere. During the high season, Bagatelle elevates the experience by hosting special events with renowned artists and DJs like Black Coffee , Tom & Collins , and Mahmut Orhan . These events transform the venue into a hotspot for music lovers and partygoers from around the world. Culinary Delights with a Mediterranean Flair The menu at Bagatelle Tulum showcases the best of Mediterranean cuisine enriched with Mexican influences. Indulge in dishes like the Fresh Burrata with Heirloom Tomatoes , Truffle Pizza , and Grilled Octopus served with zesty salsa verde. Seafood enthusiasts will appreciate the Whole Roasted Fish seasoned with herbs and citrus. Complement your meal with selections from an extensive wine list or signature cocktails like the Bagatelle Mojito , making every dining experience delightful. Location & Practical Info Located in Tulum's vibrant hotel zone, Bagatelle is easily accessible and offers breathtaking views of the Caribbean Sea. The venue operates daily, generally from 11 am to late evening, allowing guests to enjoy both sun-soaked afternoons at the beach club and elegant dinners at the restaurant. Reservations are highly recommended, especially during peak seasons, to ensure you secure your spot at this popular destination.",
+          "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R"
+        },
+        "es": {
+          "name": "Bagatelle Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Bagatelle Tulum: A taste of French Riviera elegance, top dishes, lively music, and exclusive events in a luxurious Tulum setting.",
+          "description": "Experiencia Mediterránea de Altura En Bagatelle Tulum, te llevará a una experiencia inmersiva en un mundo que refleja el encanto de la Riviera Francesa. Reconocida por su excelencia culinaria franco-mediterránea, Bagatelle encarna el espíritu vibrante y los placeres del sur de Francia. Ubicado en la Zona Hotelera Tulum, este lugar ofrece una lujosa experiencia gastronómica que te hará sentir en las costas de St. Tropez. Vanguardia Gastronómica La cocina en Bagatelle es un viaje a través de los ricos sabores del Mediterráneo. Calificado altamente por su excepcional comida y servicio, el restaurante se enorgullece de ofrecer un menú que combina técnicas clásicas francesas con la frescura de los ingredientes locales. Los platos de autor, como las exquisitas selecciones de mariscos o simplemente la pizza de aguacate, son un testimonio de la experiencia culinaria y la creatividad por la que se celebra Bagatelle. Un lugar Icónico La atmósfera de Bagatelle es dinámica, mezclando el ambiente relajado de Tulum con la sofisticación de un club de playa de alta gama. Con un DJ que crea el ambiente, Bagatelle es perfecto para aquellos que buscan disfrutar del lujo mientras disfrutan de la escena social. Ya sea una cena animada o una elegante fiesta de día, Bagatelle ofrece una experiencia inigualable que cautiva y deleita a sus invitados. Conoce Bagatelle Tulum Abierto para reservaciones todos los días de 11am a medianoche, Bagatelle Tulum te invita a sumergirte en una lujosa experiencia gastronómica y social. Con sus altas calificaciones y críticas, se destaca como un destino imperdible en Tulum, ofreciendo una porción del encanto y sofisticación de la Riviera Francesa en el corazón de México.",
+          "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R"
+        }
+      },
+      "lastPublished": "2025-03-02T19:02:54.949Z",
+      "lastUpdated": "2025-03-02T19:00:42.398Z"
+    },
+    {
+      "webflowItemId": "63727412d2689cbd4d439e7d",
+      "base": {
+        "slug": "papaya-playa-project",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/63ab5c7d6c9c1282fae065a6_1bfk_1N_2L54uaTOBp5QAfAqNK_kXnu0EvRdvAZed7s.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/63ab5c7d6c9c1282fae065a6_1bfk_1N_2L54uaTOBp5QAfAqNK_kXnu0EvRdvAZed7s.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/63d054e68090abf48ee79055_5_j_0VanpoqoEbBrya9Cj0qqg3_U-yNWVWN-Kc0DpOs.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/63d055295a9dd26f1b300ab0_3b_d0jLAXG8J4xrjL0ycHsIoQRrc3Vo6-3LNCLscUxU.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/63d054e68090ab88ace79059_bdBqQsgvqDX-ytJwxVF0FonjiWOoscVMoG81HijBo64.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/63ab5c7d6c9c1260dee065a5_jKbBOLmGKD6kHOCmnDGq_rqQhO30KKPH8mHjQyrcvIw.avif"
+        ],
+        "priceRange": "23fc6463b6a6670e1600b27d4357f829",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": false
+      },
+      "locales": {
+        "en": {
+          "name": "Papaya Playa Project",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Papaya Playa Project, together with Design Hotels™, has set out to discover a new form of hospitality, merging local culture, and sustainability to set the stage for original and aspirational hospitality experiences.",
+          "description": "A Sustainable Tulum Sanctuary Papaya Playa Project (PPP) is more than just a hotel and beach club—it's a haven where Tulum's natural beauty and eco-conscious spirit come together. Located along one of the longest stretches of Tulum's coastline, PPP blends sustainable luxury with the raw energy of the jungle and sea, offering guests a unique escape that harmonizes with nature. Embrace the Rhythm of Tulum Relax on beachfront loungers, join rejuvenating yoga classes, or indulge in holistic spa treatments at PPP. As the sun sets, the atmosphere transforms with local and international DJs curating soulful sounds for intimate gatherings. The blend of tranquility and vibrant energy creates an ambiance that resonates with the true essence of Tulum. Where Celebration Meets Consciousness Papaya Playa Project has a rich history of hosting significant events. Their \"Gratitude Season\" featured major artists like Monolink, WhoMadeWho, Âme, and Dixon. Today, their signature \"Full Moon Party\" takes place on Saturdays, offering magical nights of connection and celebration under the moonlight. With a new events team eager to enhance the experience and bring the community together, PPP continues to elevate Tulum's social scene. Exclusive Luxury and Peace of Mind As one of the most upscale destinations in Tulum, Papaya Playa Project offers an exclusive experience that reflects its commitment to quality and sustainability. While it is among the pricier options—with entry prices generally higher than other beach clubs—the exceptional service, amenities, and attention to detail make it worthwhile. Guests also appreciate the secure and comfortable environment that PPP provides, allowing them to relax and enjoy their stay with peace of mind. Discover the Essence of Tulum Papaya Playa Project invites you to experience a different side of Tulum, one rooted in sustainability, authenticity, and a profound connection with nature. Join the Papaya Playa community and create memories that will resonate long after your stay."
+        },
+        "es": {
+          "name": "Papaya Playa Project",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Papaya Playa Project, together with Design Hotels™, has set out to discover a new form of hospitality, merging local culture, and sustainability to set the stage for original and aspirational hospitality experiences.",
+          "description": "A Sustainable Tulum Sanctuary Papaya Playa Project (PPP) is more than just a hotel and beach club—it's a haven where Tulum's natural beauty and eco-conscious spirit come together. Located along one of the longest stretches of Tulum's coastline, PPP blends sustainable luxury with the raw energy of the jungle and sea, offering guests a unique escape that harmonizes with nature. Embrace the Rhythm of Tulum Relax on beachfront loungers, join rejuvenating yoga classes, or indulge in holistic spa treatments at PPP. As the sun sets, the atmosphere transforms with local and international DJs curating soulful sounds for intimate gatherings. The blend of tranquility and vibrant energy creates an ambiance that resonates with the true essence of Tulum. Where Celebration Meets Consciousness Papaya Playa Project has a rich history of hosting significant events. Their \"Gratitude Season\" featured major artists like Monolink, WhoMadeWho, Âme, and Dixon. Today, their signature \"Full Moon Party\" takes place on Saturdays, offering magical nights of connection and celebration under the moonlight. With a new events team eager to enhance the experience and bring the community together, PPP continues to elevate Tulum's social scene. Exclusive Luxury and Peace of Mind As one of the most upscale destinations in Tulum, Papaya Playa Project offers an exclusive experience that reflects its commitment to quality and sustainability. While it is among the pricier options—with entry prices generally higher than other beach clubs—the exceptional service, amenities, and attention to detail make it worthwhile. Guests also appreciate the secure and comfortable environment that PPP provides, allowing them to relax and enjoy their stay with peace of mind. Discover the Essence of Tulum Papaya Playa Project invites you to experience a different side of Tulum, one rooted in sustainability, authenticity, and a profound connection with nature. Join the Papaya Playa community and create memories that will resonate long after your stay."
+        }
+      },
+      "lastPublished": "2025-03-29T22:37:22.388Z",
+      "lastUpdated": "2025-03-29T22:37:22.388Z"
+    },
+    {
+      "webflowItemId": "636d4ccaba66f844c5a87fc4",
+      "base": {
+        "slug": "vagalume-tulum",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0145b3c8e6b0fdb30b_66bce1b1a65bf98ab1403c5f_vagalume-entrance.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0145b3c8e6b0fdb30b_66bce1b1a65bf98ab1403c5f_vagalume-entrance.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0245b3c8e6b0fdb326_66bce1b958f9a2b25aa182b7_vagalume-hands.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0245b3c8e6b0fdb310_66bce1bd29eaf715128ad982_vagalume-restaurant.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0245b3c8e6b0fdb31a_66bce1c608a6583d50b6e1e6_vagalume-beachclub.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb0245b3c8e6b0fdb31e_66bce1fdd9a16a5e991176eb_vagalume-pool.avif"
+        ],
+        "priceRange": "23fc6463b6a6670e1600b27d4357f829",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Vagalume Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Vagalume Tulum: A premium beach club known for energetic parties, fine dining, and a high-end atmosphere in Tulum's hotel zone.",
+          "description": "The Heartbeat of Tulum's Beach Scene Vagalume Tulum is where daytime relaxation seamlessly turns into nighttime excitement. As the most popular beach club in Tulum, it captures the true spirit of the area, making it a must-visit spot for anyone looking to experience the best of what Tulum has to offer. Daytime Serenity, Nighttime Vibrancy From 11 am to 7 pm, Vagalume offers a calm and sophisticated atmosphere. Guests relax on comfortable beach beds, soak up the sun, and enjoy refreshing cocktails while the gentle ocean breeze sets a peaceful mood. After 7 pm, the venue transforms into a lively beach club full of energy. The crowd becomes a vibrant mix of international visitors and locals, all drawn to the energetic vibe that makes every evening unforgettable. Tulum's Premier Spot for Music and Events What makes Vagalume stand out is its impressive lineup of events. With a schedule featuring both international and local DJs, the music scene here is always lively, turning nights into memorable celebrations. This commitment to great entertainment has solidified Vagalume's reputation as Tulum's hotspot for those seeking an exciting nightlife experience. Savor the Flavors: A New Menu to Delight Adding to its appeal, Vagalume has introduced a new menu that brings together the rich flavors of Mexican and Caribbean cuisine with a modern twist. Highlights include the Quesadilla de Langosta , a generous handmade tortilla filled with butter-poached lobster, gouda cheese, green apple pico de gallo, spicy macha sauce, and avocado purée. Seafood lovers will enjoy the Pulpo Adobado , featuring marinated octopus served with rustic potato purée and sautéed baby carrots. For dessert, the Coco Helado y Chocolate offers a delicious chocolate lava cake with mascarpone coconut cream and coconut sorbet. There's something to delight every taste. Luxury in the Heart of Tulum Located in Tulum's vibrant hotel zone, Vagalume offers stunning beachfront views of the Caribbean Sea. Tickets for entry generally start at 550 MXN pesos , making it more affordable than other beach clubs like Papaya Playa Project. Due to its popularity, reservations are highly recommended, especially during peak seasons and special events, to ensure you don't miss out on this iconic Tulum experience.",
+          "address": "Supermanzana QROO 15, Tulum Beach, 77776 Tulum, Quintana Roo"
+        },
+        "es": {
+          "name": "Vagalume Tulum",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Vagalume Tulum: Un beach club premium conocido por fiestas inolvidables, buena comida y un ambiente de alta gama en la zona hotelera de Tulum.",
+          "description": "Vagalume Tulum: Un Santuario de Ritmo y Relajación Descubre la esencia del espíritu bohemio de Tulum en Vagalume, un santuario frente al mar donde la belleza natural del Caribe se fusiona con el vibrante pulso de la música electrónica. Ubicado en el corazón de la Zona Hotelera de Tulum, Vagalume ofrece una mezcla inigualable de serenidad y celebración, convirtiéndose en el destino ideal para quienes buscan tanto relajación como diversión. Transición Perfecta del Día a la Noche En Vagalume, tu día comienza en una playa de arena blanca y aguas turquesas, rodeada de una arquitectura impactante que encapsula perfectamente el encanto único de Tulum. Al caer el sol, la atmósfera evoluciona hacia una experiencia nocturna electrizante. Con DJs de renombre como Monolink, Massano y Hernán Cattáneo en las tornamesas, Vagalume se ha convertido en un pilar de la escena de música electrónica de Tulum, ofreciendo eventos que fusionan ritmo con los relajantes sonidos del mar. Un Viaje Culinario por la Herencia Mexicana La oferta culinaria en Vagalume es una celebración de los ricos y diversos sabores de México, elaborada con ingredientes frescos y locales. El menú es una mezcla de influencias prehispánicas y españolas, resultando en platillos que no son solo comidas, sino una experiencia social y cultural. Entre los platos destacados se encuentran las famosas Quesadillas de Langosta y el Pastel de Queso Cítrico, cada uno con sabores, colores y texturas únicas que reflejan la riqueza cultural de la región. La Experiencia Quintessential de Tulum Vagalume es más que un club de playa: es una experiencia holística que armoniza lujo, naturaleza y cultura. Ya sea que te estés sumergiendo en las vibras tranquilas del día o perdiéndote en el ritmo de la noche, Vagalume promete una experiencia que resonará mucho después de que te hayas ido. Su reputación como un lugar premium está bien ganada, ofreciendo un servicio de primera clase y momentos inolvidables que encarnan el atractivo exclusivo de Tulum.",
+          "address": "Supermanzana QROO 15, Tulum Beach, 77776 Tulum, Quintana Roo"
+        }
+      },
+      "lastPublished": "2025-03-23T14:07:19.832Z",
+      "lastUpdated": "2025-03-23T14:07:19.832Z"
+    },
+    {
+      "webflowItemId": "636d30401086de198a84f340",
+      "base": {
+        "slug": "mia-restaurant-and-beachclub",
+        "category": "other",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a42ce92415716961fe_ulNbaC6Brwx1AOtZbnNVzUBXBK9i-E87bMwaNfkdOa0.avif",
+        "imageUrls": [
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a42ce92415716961fe_ulNbaC6Brwx1AOtZbnNVzUBXBK9i-E87bMwaNfkdOa0.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a42ce92415716961fa_yBIGfDW10IWMsuvHqMd2Gm4qfbCzum87JP0SmxG3ng4.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a42ce92415716961f2_tywLCSwtAJN5uJG5cWMh6x558XpYtS8eXwknoL6r-W8.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a48ecf0abdf8eb496e_4tCJECdRLRmOFG95nJKgi0DHordjwK5xytCSbpSfePQ.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a42ce92415716961f6_FfwnWiHtAjPEJ3Xz0I8-y-HhR9GGdJS_0gFRp3fxyCc.avif"
+        ],
+        "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+        "openingHours": null,
+        "isFeaturedOnCoreTulum": false,
+        "isFeatured": false,
+        "isPublished": true
+      },
+      "locales": {
+        "en": {
+          "name": "Mia Beach Club",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Mía Tulum: A beach club and a resort with diverse cuisine, vibrant DJ sets, beachfront weddings, free parking, and stunning sea views.",
+          "description": "Beachfront Oasis Mia Tulum, a vibrant beach club where energetic vibes meet culinary delights. Cuisine with Coastal Flair Mia's diverse menu celebrates flavors from fresh seafood to authentic Mexican dishes. Explore their extensive wine list to find the perfect pairing for your meal. Whether you're craving a casual lunch or a celebratory dinner, Mia offers delicious options for every taste. Evolving Entertainment While Mia was once known for its lively parties and big-name DJs, its event schedule now leans towards daytime beach club vibes. Occasional nighttime events may still pop up with shorter notice, so it's worth keeping an eye on our events page for the latest happenings. Insider Tip: During sargassum season, Mia's beach often stays cleaner than other venues, making it a great choice for enjoying the sand and sea. A Tulum Classic with a Modern Twist Mia Tulum remains a beloved beachfront destination. It offers a blend of culinary excellence, breathtaking views, and a relaxed atmosphere – perfect for creating unforgettable Tulum memories. ‍",
+          "address": "Hotel Selina los Lirios, Carr. Tulum-Boca Paila KM 7.5-Interior, Tulum Beach, Punta Piedra, 77780 Tulum, Q.R."
+        },
+        "es": {
+          "name": "Mia Beach Club",
+          "tagline": "",
+          "neighborhood": "",
+          "shortDescription": "Mía Tulum: A beach club and a resort with diverse cuisine, vibrant DJ sets, beachfront weddings, free parking, and stunning sea views.",
+          "description": "Beachfront Oasis Mia Tulum, a vibrant beach club where energetic vibes meet culinary delights. Part of the Selina hospitality group, Mia embodies the essence of Tulum with its iconic wooden tunnel entrance and stunning beachfront setting. Cuisine with Coastal Flair Mia's diverse menu celebrates flavors from fresh seafood to authentic Mexican dishes. Explore their extensive wine list to find the perfect pairing for your meal. Whether you're craving a casual lunch or a celebratory dinner, Mia offers delicious options for every taste. Evolving Entertainment While Mia was once known for its lively parties and big-name DJs, its event schedule now leans towards daytime beach club vibes. Occasional nighttime events may still pop up with shorter notice, so it's worth keeping an eye on our events page for the latest happenings. Insider Tip: During sargassum season, Mia's beach often stays cleaner than other venues, making it a great choice for enjoying the sand and sea. A Tulum Classic with a Modern Twist Mia Tulum remains a beloved beachfront destination. It offers a blend of culinary excellence, breathtaking views, and a relaxed atmosphere – perfect for creating unforgettable Tulum memories. ‍",
+          "address": "Hotel Selina los Lirios, Carr. Tulum-Boca Paila KM 7.5-Interior, Tulum Beach, Punta Piedra, 77780 Tulum, Q.R."
+        }
+      },
+      "lastPublished": "2025-11-26T16:33:09.406Z",
+      "lastUpdated": "2025-11-24T16:26:25.747Z"
+    }
+  ]
+}

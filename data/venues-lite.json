@@ -1,0 +1,25 @@
+{
+  "syncedAt": "2026-04-07T06:56:35.610Z",
+  "venues": [
+    {
+      "slug": "ilios-tulum",
+      "category": "other",
+      "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e661e_6741eeeaba10dbc08f97a43a_ilios-tulum-booth.avif",
+      "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+      "openingHours": null,
+      "tulumBibleSlug": "ilios-tulum",
+      "locales": {
+        "en": {
+          "name": "Ilios Tulum",
+          "tagline": "",
+          "neighborhood": ""
+        },
+        "es": {
+          "name": "Ilios Tulum",
+          "tagline": "",
+          "neighborhood": ""
+        }
+      }
+    }
+  ]
+}

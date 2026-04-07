@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": null,
+  "outputDirectory": null,
+  "framework": null,
+  "functions": {
+    "api/webflow-webhook.ts": {
+      "runtime": "@vercel/node@5.x",
+      "maxDuration": 10
+    }
+  }
+}

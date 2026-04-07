@@ -9,6 +9,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
+    "@vercel/node": "^5.0.0",
     "webflow-api": "^3.2.3"
   },
   "devDependencies": {

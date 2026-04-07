@@ -33,6 +33,35 @@ gh workflow run sync.yml
 
 The workflow also runs daily at 07:00 UTC via cron.
 
+## Webhook (instant updates)
+
+A Vercel function at `api/webflow-webhook.ts` receives Webflow webhook events
+and triggers the sync GitHub Action via `workflow_dispatch`. End-to-end latency
+from CMS publish to live JSON is ~30 seconds.
+
+### Setup
+
+1. Deploy this repo to Vercel — link the GitHub repo from the Vercel dashboard.
+   The deploy is essentially free: only the `api/` folder runs as a function.
+
+2. Add these env vars in the Vercel project settings (Production + Preview):
+   - `WEBFLOW_WEBHOOK_SECRET` — generate a random 32+ character string. Use the
+     same value when registering the webhook in Webflow.
+   - `GITHUB_REPO` — `CerkaB/tulum-cms-sync`
+   - `GITHUB_DISPATCH_TOKEN` — a GitHub fine-grained PAT scoped to this repo
+     with `Actions: write` permission.
+
+3. In Webflow → Site Settings → Webhooks → Add Webhook:
+   - Trigger types: collection_item_created, collection_item_changed,
+     collection_item_deleted, collection_item_published, collection_item_unpublished
+   - Filter: Venues collection only
+   - URL: `https://tulum-cms-sync.vercel.app/api/webflow-webhook`
+     (replace with your actual Vercel deployment URL)
+   - Secret: same value you put in `WEBFLOW_WEBHOOK_SECRET`
+
+4. Test from Webflow: edit a venue, publish it, watch the GitHub Action page —
+   a new run should appear within seconds.
+
 ## Output schema
 
 ### `data/venues-lite.json`

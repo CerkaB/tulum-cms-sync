@@ -1,5 +1,8 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import crypto from 'node:crypto';
+import { readFile } from 'node:fs/promises';
+import { dirname, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 export const config = { api: { bodyParser: false } };
 
@@ -13,6 +16,38 @@ const TRIGGERS_THAT_SYNC = new Set([
   'collection_item_published',
   'collection_item_unpublished',
 ]);
+
+interface CityConfig {
+  slug: string;
+  webflowSiteId: string;
+  active: boolean;
+}
+
+/**
+ * Look up which city slug owns a Webflow site ID. Returns null if no
+ * active city in cities.json matches — caller treats that as "trigger
+ * a full multi-city sync" (safe default; the cron will pick it up too).
+ */
+async function getCitySlugForSiteId(
+  siteId: string,
+): Promise<string | null> {
+  try {
+    // cities.json sits at the repo root; this file is at api/webhook.ts
+    // so we resolve up one level. In Vercel's serverless build the file
+    // is bundled into the function package.
+    const __dirname = dirname(fileURLToPath(import.meta.url));
+    const path = resolve(__dirname, '..', 'cities.json');
+    const raw = await readFile(path, 'utf8');
+    const parsed = JSON.parse(raw) as { cities: CityConfig[] };
+    const match = parsed.cities.find(
+      (c) => c.active && c.webflowSiteId === siteId,
+    );
+    return match?.slug ?? null;
+  } catch (err) {
+    console.error('Failed to read cities.json:', err);
+    return null;
+  }
+}
 
 /**
  * Verify Webflow webhook signature using HMAC-SHA256.
@@ -102,13 +137,32 @@ export default async function handler(
     return;
   }
 
+  // Extract identifying info from the payload
   const innerPayload = payload.payload as Record<string, unknown> | undefined;
   const collectionId =
     (innerPayload?.cmsCollectionId as string | undefined) ??
     (innerPayload?.collectionId as string | undefined) ??
     null;
+  // Webflow includes the site ID at the top level of the webhook payload,
+  // not inside `payload`. Source of truth: Webflow webhook docs.
+  const siteId =
+    (payload.siteId as string | undefined) ??
+    (innerPayload?.siteId as string | undefined) ??
+    null;
+
+  // Resolve which city this webhook belongs to so the GitHub Action can
+  // sync only that one city instead of every city in cities.json. Falls
+  // back to a full multi-city sync if we can't identify the source.
+  let citySlug: string | null = null;
+  if (siteId) {
+    citySlug = await getCitySlugForSiteId(siteId);
+  }
+
   console.log(
-    `Webflow webhook accepted: triggerType=${triggerType} collection=${collectionId ?? 'unknown'}`,
+    `Webflow webhook accepted: triggerType=${triggerType} ` +
+      `collection=${collectionId ?? 'unknown'} ` +
+      `siteId=${siteId ?? 'unknown'} ` +
+      `citySlug=${citySlug ?? '(all)'}`,
   );
 
   const repo = process.env.GITHUB_REPO;
@@ -117,6 +171,16 @@ export default async function handler(
     console.error('GITHUB_REPO or GITHUB_DISPATCH_TOKEN not set');
     res.status(500).json({ error: 'Server misconfiguration' });
     return;
+  }
+
+  // Pass the resolved city slug as a workflow input. The GitHub Action
+  // forwards it as the SYNC_ONLY_CITY env var, which sync.ts uses to
+  // skip every city except the one matching.
+  const dispatchBody: { ref: string; inputs?: Record<string, string> } = {
+    ref: 'main',
+  };
+  if (citySlug) {
+    dispatchBody.inputs = { citySlug };
   }
 
   const dispatch = await fetch(
@@ -129,7 +193,7 @@ export default async function handler(
         'X-GitHub-Api-Version': '2022-11-28',
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ ref: 'main' }),
+      body: JSON.stringify(dispatchBody),
     },
   );
 
@@ -142,5 +206,10 @@ export default async function handler(
     return;
   }
 
-  res.status(200).json({ ok: true, triggered: true, triggerType });
+  res.status(200).json({
+    ok: true,
+    triggered: true,
+    triggerType,
+    citySlug: citySlug ?? null,
+  });
 }

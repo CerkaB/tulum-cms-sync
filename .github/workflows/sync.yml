@@ -4,12 +4,17 @@ on:
   schedule:
     - cron: '0 7 * * *'
   workflow_dispatch:
+    inputs:
+      citySlug:
+        description: 'Optional city slug to sync only that city (e.g. "tulum"). Empty = sync every city in cities.json.'
+        required: false
+        type: string
 
 permissions:
   contents: write
 
 concurrency:
-  group: tulum-cms-sync
+  group: core-cms-sync
   cancel-in-progress: false
 
 jobs:
@@ -35,8 +40,14 @@ jobs:
 
       - name: Run sync
         env:
+          # Shared Webflow API token. If a city's Webflow site lives in a
+          # different workspace, set its token via a different secret and
+          # reference it in cities.json via `webflowApiTokenEnvVar`.
           WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
-          WEBFLOW_SITE_ID: ${{ secrets.WEBFLOW_SITE_ID }}
+          # When set, sync.ts only syncs this city and skips the rest.
+          # Webhook receiver passes the city slug it resolved from the
+          # source Webflow site ID. Cron runs leave this unset → all cities.
+          SYNC_ONLY_CITY: ${{ inputs.citySlug }}
         run: pnpm sync
 
       - name: Commit changes
@@ -48,5 +59,10 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "chore: sync Webflow venues ($(date -u +%Y-%m-%dT%H:%MZ))"
+          if [ -n "${{ inputs.citySlug }}" ]; then
+            COMMIT_MSG="chore: sync ${{ inputs.citySlug }} ($(date -u +%Y-%m-%dT%H:%MZ))"
+          else
+            COMMIT_MSG="chore: sync all cities ($(date -u +%Y-%m-%dT%H:%MZ))"
+          fi
+          git commit -m "$COMMIT_MSG"
           git push

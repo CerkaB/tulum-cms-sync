@@ -1,0 +1,19 @@
+{
+  "$schema": "./cities.schema.json",
+  "cities": [
+    {
+      "slug": "tulum",
+      "displayName": "Tulum",
+      "webflowSiteId": "6357fd6cab073f81a8eb1b51",
+      "venuesCollectionSlug": "venue",
+      "active": true
+    }
+  ],
+  "_notes": [
+    "Each city points at its own Webflow site (one site per city).",
+    "The sync iterates over cities[] and writes one folder per slug under data/.",
+    "Set `active: false` to keep a city in the config but skip its sync (useful for cities that haven't launched yet but you want pre-defined).",
+    "Add new cities by appending to the array — no code changes needed.",
+    "If different cities live in different Webflow workspaces, add a `webflowApiTokenEnvVar` field per city pointing at a different env var name."
+  ]
+}

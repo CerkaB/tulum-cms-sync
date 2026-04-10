@@ -32,6 +32,8 @@ export interface LiteVenue {
   coverImage: string | null;
   isClosed: boolean;
   tulumBibleSlug: string;
+  /** Opening hours — HTML stripped to plain text. */
+  openingHours: string | null;
   locales: {
     en: LiteVenueLocale;
     es: LiteVenueLocale;
@@ -61,6 +63,12 @@ export function toLiteVenue(
   if (!venue.base.isFeaturedOnCoreTulum) return null;
   if (venue.base.isClosed) return null;
 
+  // Strip HTML tags from opening hours to get plain text
+  const rawHours = venue.base.openingHoursHtml?.trim();
+  const openingHours = rawHours
+    ? rawHours.replace(/<[^>]*>/g, "\n").replace(/\n{2,}/g, "\n").trim()
+    : null;
+
   return {
     slug: venue.base.slug,
     category: venue.base.category,
@@ -69,6 +77,7 @@ export function toLiteVenue(
     coverImage: venue.base.coverImage,
     isClosed: venue.base.isClosed,
     tulumBibleSlug: venue.base.slug,
+    openingHours,
     locales: {
       en: pickLocale(venue.locales, "en"),
       es: pickLocale(venue.locales, "es"),

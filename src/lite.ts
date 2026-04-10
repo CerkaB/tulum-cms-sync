@@ -63,11 +63,27 @@ export function toLiteVenue(
   if (!venue.base.isFeaturedOnCoreTulum) return null;
   if (venue.base.isClosed) return null;
 
-  // Strip HTML tags from opening hours to get plain text
+  // Parse 7 <p> tags (Mon–Sun) into "Day: HH:MM - HH:MM" lines
   const rawHours = venue.base.openingHoursHtml?.trim();
-  const openingHours = rawHours
-    ? rawHours.replace(/<[^>]*>/g, "\n").replace(/\n{2,}/g, "\n").trim()
-    : null;
+  let openingHours: string | null = null;
+  if (rawHours) {
+    const dayLabels = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+    const times = rawHours
+      .split(/<\/?p[^>]*>/)
+      .map((s) => s.trim())
+      .filter(Boolean);
+    if (times.length === 7) {
+      openingHours = times
+        .map((t, i) => `${dayLabels[i]}: ${t}`)
+        .join("\n");
+    } else {
+      // Fallback — just strip tags
+      openingHours = rawHours
+        .replace(/<[^>]*>/g, "\n")
+        .replace(/\n{2,}/g, "\n")
+        .trim();
+    }
+  }
 
   return {
     slug: venue.base.slug,

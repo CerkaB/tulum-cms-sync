@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-10T04:21:26.605Z",
+  "syncedAt": "2026-04-10T04:25:27.695Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -10,7 +10,7 @@
       "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e661e_6741eeeaba10dbc08f97a43a_ilios-tulum-booth.avif",
       "isClosed": false,
       "tulumBibleSlug": "ilios-tulum",
-      "openingHours": "17:00 - 01:00\n17:00 - 01:00\n17:00 - 01:00\n17:00 - 01:00\n17:00 - 01:00\n17:00 - 01:00\n17:00 - 01:00",
+      "openingHours": "Mon: 17:00 - 01:00\nTue: 17:00 - 01:00\nWed: 17:00 - 01:00\nThu: 17:00 - 01:00\nFri: 17:00 - 01:00\nSat: 17:00 - 01:00\nSun: 17:00 - 01:00",
       "locales": {
         "en": {
           "name": "Ilios Tulum",
@@ -30,7 +30,7 @@
       "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb01008660d3f2f7cc67_6692c629a06a8a1f10fe1674_obsidiana-front.avif",
       "isClosed": false,
       "tulumBibleSlug": "obsidiana-tulum",
-      "openingHours": "Closed\n20:00 - 02:30\n20:00 - 02:30\n20:00 - 02:30\n20:00 - 02:30\n20:00 - 02:30\n20:00 - 02:30",
+      "openingHours": "Mon: Closed\nTue: 20:00 - 02:30\nWed: 20:00 - 02:30\nThu: 20:00 - 02:30\nFri: 20:00 - 02:30\nSat: 20:00 - 02:30\nSun: 20:00 - 02:30",
       "locales": {
         "en": {
           "name": "Obsidiana",
@@ -50,7 +50,7 @@
       "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.avif",
       "isClosed": false,
       "tulumBibleSlug": "gitano-jungle",
-      "openingHours": "18:00 - 01:00\n18:00 - 01:00\n18:00 - 01:00\n18:00 - 01:00\n18:00 - 03:00\n18:00 - 01:00\n18:00 - 01:00",
+      "openingHours": "Mon: 18:00 - 01:00\nTue: 18:00 - 01:00\nWed: 18:00 - 01:00\nThu: 18:00 - 01:00\nFri: 18:00 - 03:00\nSat: 18:00 - 01:00\nSun: 18:00 - 01:00",
       "locales": {
         "en": {
           "name": "Gitano Jungle",
@@ -70,7 +70,7 @@
       "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a42ce92415716961fe_ulNbaC6Brwx1AOtZbnNVzUBXBK9i-E87bMwaNfkdOa0.avif",
       "isClosed": false,
       "tulumBibleSlug": "mia-restaurant-and-beachclub",
-      "openingHours": "11:00 - 19:00\n11:00 - 19:00\n11:00 - 19:00\n11:00 - 19:00\n11:00 - 19:00\n11:00 - 19:00\n11:00 - 19:00",
+      "openingHours": "Mon: 11:00 - 19:00\nTue: 11:00 - 19:00\nWed: 11:00 - 19:00\nThu: 11:00 - 19:00\nFri: 11:00 - 19:00\nSat: 11:00 - 19:00\nSun: 11:00 - 19:00",
       "locales": {
         "en": {
           "name": "Mia Beach Club",
